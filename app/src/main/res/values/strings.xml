@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Assessment1</string>
+    <string name="judul">Konverter Suhu</string>
+    <string name="celcius">Suhu Celcius</string>
+    <string name="konversi">Konversi suhu ke</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="farenheit">Farenheit</string>
+    <string name="reamur">Reamur</string>
+    <string name="konvert">Konvert</string>
+    <string name="suhu_x">Suhu: %1.2f</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+    <string name="gender_invalid">adasdasd</string>
 </resources>
